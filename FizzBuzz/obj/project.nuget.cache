@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BU6BMgnZOUw7WknboQnQN4GrCfE8yiQaOaDb3bfJFnzpx4gEcm7r1kYdgTd1vUJKjSIbFhWIKV/Y6Fo4xDGg1g==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Academy\\c-sharp\\exercises\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OlaDav\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512"
+  ],
+  "logs": []
+}
